@@ -1,0 +1,21 @@
+body {
+  background-color: #e4cae6;
+}
+
+.title {
+  margin-top: 40px;
+}
+
+.cell {
+  width: 8em;
+  height: 8em;
+  border: 5px solid;
+  text-align: center;
+  background-color: #6c416e;
+}
+
+.container-flued {
+  margin-top: 80px;
+  display: flex;
+  justify-content: center;
+}
